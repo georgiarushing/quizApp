@@ -17,7 +17,7 @@ struct ContentView: View {
             {
                 Text("QUIZ GAME!!")
                     .font(.largeTitle)
-                    .fontWeight(.bold)
+                    .fontWeight(.heavy)
                     .foregroundColor(Color(hue: 0.843, saturation: 0.62, brightness: 0.933))
                 
                 Spacer()
